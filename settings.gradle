@@ -1,3 +1,5 @@
 rootProject.name = "JitDemo"
 include ':app'
 include ':app:mylib'
+include ':math'
+include ':mymath'
